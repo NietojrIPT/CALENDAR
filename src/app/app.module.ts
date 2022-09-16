@@ -20,7 +20,7 @@ FullCalendarModule.registerPlugins([ // register FullCalendar plugins
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FullCalendarModule // register FullCalendar with you app
+    FullCalendarModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
