@@ -36,6 +36,8 @@ export class ChronogramComponent implements OnInit {
     });
     console.log('Clase A1.1: '+this.presentDays);
     console.log('Clase A1.2: '+this.absentDays);
+    console.log('Clase B1: '+this.absentDays);
+
     
   }
 
